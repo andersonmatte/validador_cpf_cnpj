@@ -1,0 +1,15 @@
+name: validador_cpf_cnpj
+description: >
+  Validador de CPF, CNPJ (formato numérico) e novo CNPJ alfanumérico (válido a partir de julho de 2026).
+version: 1.0.0
+homepage: https://github.com/andersonmatte/validador_cpf_cnpj
+repository: https://github.com/andersonmatte/validador_cpf_cnpj
+issue_tracker: https://github.com/andersonmatte/validador_cpf_cnpj/issues
+documentation: https://github.com/andersonmatte/validador_cpf_cnpj#readme
+license: MIT
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.24.0
